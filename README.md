@@ -51,13 +51,6 @@ My core interests include **cloud architecture, container orchestration, infrast
 
 ---
 
-## 📊 GitHub Stats
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashPatil1678&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashPatil1678&layout=compact)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/yash-patil-976126217/
